@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="" version="0.01" href="">
+  <name>CookieLawHider</name>
+  <author href="">mp107 and others</author>
+  <icon src="icon.png"/>
+  <access origin="*"/>
+  <description xml:lang="en">CookieLawHider - an utility to hide the informations about cookies required by law in the EU. </description>
+  <description xml:lang="pl">CookieLawHider - narzędzie do usuwania ze stron internetowych informacji o ciasteczkach wymaganych prawnie w UE. </description>
+</widget>
