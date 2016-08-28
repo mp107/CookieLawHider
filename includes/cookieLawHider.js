@@ -1240,6 +1240,8 @@
 		addCssToDocument('#cookiebannerAH{'+dni+'}');
 	else if (hostname.indexOf('satkurier.pl')>-1)
 		addCssToDocument('.cc_banner-wrapper{'+dni+'}');
+	else if (hostname.indexOf('satclub.pl')>-1)
+		addCssToDocument('.skryptcookies-pl{'+dni+'}');
 	else if (hostname.indexOf('savi-france.fr')>-1)
 		addCssToDocument('#notifybar{'+dni+'}');
 	else if (hostname.indexOf('sbab.se')>-1)
