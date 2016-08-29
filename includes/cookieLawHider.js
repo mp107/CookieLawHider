@@ -890,6 +890,8 @@
 		addCssToDocument('#sliding-popup{'+dni+'}');
 	else if (hostname.indexOf('macuser.de')>-1)
 		addCssToDocument('.eucookie_wrapper{'+dni+'}');
+	else if (hostname.indexOf('magboss.pl')>-1)
+		addCssToDocument('div[class="alert alert-message alert-dismissable bs-callout-danger"]{'+dni+'}');
 	else if (hostname.indexOf('magicmaman.com')>-1)
 		addCssToDocument('.cookieNotification{'+dni+'}');
 	else if (hostname.indexOf('ma-reduc.com')>-1)
