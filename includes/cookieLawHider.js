@@ -1417,7 +1417,7 @@
 	else if (hostname.indexOf('t-mobile.nl')>-1)
 		addCssToDocument('#exposeMask,#TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv{'+dni+'}');
 	else if (hostname.indexOf('t-mobile.pl')>-1)
-		addCssToDocument('#cookieInfoWrapper{'+dni+'}');
+		addCssToDocument('.cookies{'+dni+'}');
 	else if (hostname.indexOf('toluna.com')>-1)
 		addCssToDocument('#cookiesWarningBanner{'+dni+'}');
 	else if (hostname.indexOf('tomshw.it')>-1)
